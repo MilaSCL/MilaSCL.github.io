@@ -34,10 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-### template colors, used site-wide via css ###
-post_color: '#556B2F'
-button_color: '#ffffff'
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
