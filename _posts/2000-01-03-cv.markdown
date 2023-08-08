@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Curriculum Vitae"
+image_url: /assets/bg-2.jpg
+---
+
+## Información Personal
+
+**Nombre:** [Tu Nombre Completo]  
+**Dirección:** [Tu Dirección]  
+**Teléfono:** [Tu Número de Teléfono]  
+**Correo Electrónico:** [Tu Correo Electrónico]  
+**Sitio Web/Portfolio:** [Tu Sitio Web o Portfolio]  
+
+## Resumen
+
+Soy un/a profesional apasionado/a con una sólida formación en [Tu Campo de Especialización]. Mi experiencia incluye [Menciona Tus Áreas de Experiencia Principal]. He demostrado habilidades excepcionales en [Habilidades Relevantes]. Mi objetivo es [Menciona Tu Objetivo Profesional].
+
+## Experiencia Laboral
+
+### [Nombre de la Empresa] - [Ubicación] - [Fechas]
+
+**Cargo:** [Tu Cargo]  
+**Descripción:**
+- [Logros y Responsabilidades]
+
+### [Nombre de la Empresa] - [Ubicación] - [Fechas]
+
+**Cargo:** [Tu Cargo]  
+**Descripción:**
+- [Logros y Responsabilidades]
+
+## Educación
+
+### [Nombre de la Universidad/Institución] - [Ubicación] - [Año de Graduación]
+
+**Título:** [Tu Título]  
+**Campo de Estudio:** [Tu Campo de Estudio]  
+**Descripción:** [Menciona Algunos Cursos Relevantes o Logros Académicos]  
+
+## Habilidades
+
+- [Habilidad 1]
+- [Habilidad 2]
+- [Habilidad 3]
+
+## Idiomas
+
+- [Idioma 1] - [Nivel]
+- [Idioma 2] - [Nivel]
+
+## Certificaciones
+
+- [Certificación 1]
+- [Certificación 2]
+
+## Proyectos Destacados
+
+### [Nombre del Proyecto]
+
+**Descripción:**
+- [Detalles del Proyecto]
+
+### [Nombre del Proyecto]
+
+**Descripción:**
+- [Detalles del Proyecto]
+
+## Referencias
+
+Disponibles a petición.
+
+---  
+
+¡Gracias por revisar mi Curriculum Vitae! Si deseas más información o detalles adicionales, no dudes en contactarme.
+
+\[Tu Nombre\]
+\[Tu Dirección\]
+\[Tu Número de Teléfono\]
+\[Tu Correo Electrónico\]
+\[Tu Sitio Web/Portfolio\]
