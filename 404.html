@@ -20,6 +20,20 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p id="errorMessage"><strong>Page not found :(</strong></p>
+
+  <script type="text/javascript">
+    var messages = [
+      "Meanwhile, why not explore some of our other fascinating pages? You might find hidden treasures that pique your interest!",
+      "Don't worry, our team of expert navigators is working hard to locate the missing page. It should be back soon!",
+      "It seems the page has embarked on an interdimensional journey. While it's away, feel free to browse through our collection of interesting articles!",
+      "Our sincere apologies for the inconvenience. Please bear with us as we try to track down the elusive page.",
+      "The page you're looking for seems to have taken a vacation. We'll do our best to bring it back refreshed and ready to serve you!",
+      "Oops! Looks like the page took a wrong turn and ended up in the Bermuda Triangle. We're sending a search party of tech-savvy dolphins to bring it back!"
+    ];
+
+    var randomIndex = Math.floor(Math.random() * messages.length);
+    var randomMessage = messages[randomIndex];
+    document.getElementById("errorMessage").innerHTML += "<br>" + randomMessage;
+  </script>
 </div>

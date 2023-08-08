@@ -1,0 +1,82 @@
+.button-container {
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  a {
+    background-size: 20px 20px; /* image's size */
+    padding-left: 30px; /* image's width plus 10 px (margin between text and image) */
+    height: 20px; /* image's height */
+    display: flex;
+    align-items: center;
+    margin: 10px;
+  }
+
+  span {
+    color: $button-color;
+    height: 20px;
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  img {
+    margin-right: 5px;
+  }
+
+  /**
+   * Telegram button
+   */
+  .telegram-button {
+    display: inline-flex;
+    padding: 10px 15px;
+    background-color: #0088cc;
+    color: $button-color;
+    border: 1px solid #0088cc;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover {
+      background-color: #005f99;
+      border-color: #005f99;
+    }
+  }
+
+  /**
+   * Whatsapp button
+   */
+  .whatsapp-button {
+    display: inline-flex;
+    padding: 10px 15px;
+    background-color: #25D366;
+    color: $button-color;
+    border: 1px solid #25D366;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover {
+      background-color: #075E54;
+      border-color: #075E54;
+    }
+  }
+
+    /**
+   * Email button
+   */
+   .email-button {
+    display: inline-flex;
+    padding: 10px 15px;
+    background-color: #d38d25;
+    color: $button-color;
+    border: 1px solid #d38d25;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover {
+      background-color: #a8701d;
+      border-color: #a8701d;
+    }
+  }
+}

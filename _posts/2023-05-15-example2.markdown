@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CV"
+image_url: /assets/bg-2.jpg
+---
+
+|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+![titulo de la foto](/assets/pingg2.png)

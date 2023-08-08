@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+  <div class="post-grid">
+    {%- for post in site.posts -%}
+    <div class="post-grid-item">
+      <a class="post-image" href="{{ post.url | relative_url }}">
+        <img src="{{ post.image_url | relative_url }}" alt="{{ post.title | escape }}">
+      </a>
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h2>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </div>
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+
+  <div class="button-container">
+    <a href="https://t.me/+34654611151" class="telegram-button">
+      <img src="/assets/telegram.png" alt="Telegram Icon" width="20" height="20">
+      <span>Telegram</span>
+    </a>
+
+    <a href="https://wa.me/+34654611151" class="whatsapp-button">
+      <img src="/assets/whatsapp.png" alt="WhatsApp Icon" width="20" height="20">
+      <span>Whatsapp</span>
+    </a>
+
+    <a href="mailto:ms.cabreralopez@gmail.com" class="email-button">
+      <img src="/assets/email.png" alt="Email Icon" width="20" height="20">
+      <span>E-mail</span>
+    </a>
+  </div>
+  
+</div>
