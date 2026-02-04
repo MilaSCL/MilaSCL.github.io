@@ -1,3 +1,9 @@
+# Ruby 3.3+ compatibility gems
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
