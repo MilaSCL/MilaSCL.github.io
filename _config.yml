@@ -22,17 +22,56 @@ title: Milagros Sabrina
 author: Milagros Sabrina
 email: ms.cabreralopez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Pedagoga, Orientadora Educativa y futura Psicóloga.
+  Pedagoga, Orientadora Educativa y Psicóloga. Especialista en Trastorno del Espectro Autista (TEA), 
+  atención a la diversidad y desarrollo integral. Acompañamiento profesional en procesos educativos 
+  y de bienestar emocional para niños, adolescentes y familias.
+
+# SEO keywords
+keywords: pedagoga madrid, orientadora educativa, psicóloga educativa, especialista TEA, autismo, 
+  atención diversidad, apoyo educativo, terapia infantil, orientación familiar
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://milascl.github.io" # CAMBIAR POR TU URL REAL de GitHub Pages cuando la tengas
+# Ejemplo: https://tu-usuario.github.io o https://tu-usuario.github.io/nombre-repo
+
 linkedin_username: milascl
 # github_username:  MilaSCL
+
+# Social media (añade las que uses)
+# twitter_username: tu_usuario
+# instagram_username: tu_usuario
+# facebook_username: tu_usuario
+
+# Configuración profesional
+timezone: Europe/Madrid
+lang: es-ES
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Configuración del blog
+show_excerpts: true
+
+# Páginas en el menú de navegación (en orden)
+header_pages:
+  - about.markdown
+  - servicios.markdown
+  - contacto.markdown
+
+# Configuración SEO
+social:
+  name: Milagros Sabrina Cabrera López
+  links:
+    - https://www.linkedin.com/in/milascl
+    - https://github.com/MilaSCL
+
+# Datos estructurados para Google
+author:
+  name: Milagros Sabrina Cabrera López
+  email: ms.cabreralopez@gmail.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.

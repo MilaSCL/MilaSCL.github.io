@@ -1,81 +1,160 @@
 ---
 layout: post
-title:  "Curriculum Vitae"
+title: "Curriculum Vitae"
 image_url: /assets/bg-2.jpg
 ---
 
-## Información Personal
+# Milagros Sabrina Cabrera López
 
-**Nombre:** [Tu Nombre Completo]  
-**Dirección:** [Tu Dirección]  
-**Teléfono:** [Tu Número de Teléfono]  
-**Correo Electrónico:** [Tu Correo Electrónico]  
-**Sitio Web/Portfolio:** [Tu Sitio Web o Portfolio]  
+**Pedagoga | Orientadora Educativa | Psicóloga en formación**
 
-## Resumen
+---
 
-Soy un/a profesional apasionado/a con una sólida formación en [Tu Campo de Especialización]. Mi experiencia incluye [Menciona Tus Áreas de Experiencia Principal]. He demostrado habilidades excepcionales en [Habilidades Relevantes]. Mi objetivo es [Menciona Tu Objetivo Profesional].
+## 📋 Perfil Profesional
 
-## Experiencia Laboral
+Profesional de la educación con sólida formación en Pedagogía y Orientación Educativa, complementada con estudios avanzados en Psicología. Experiencia en el diseño e implementación de programas educativos personalizados, con especialización en Trastorno del Espectro Autista (TEA) y atención a la diversidad. Comprometida con metodologías innovadoras basadas en evidencia y el desarrollo integral de las personas.
 
-### [Nombre de la Empresa] - [Ubicación] - [Fechas]
+---
 
-**Cargo:** [Tu Cargo]  
-**Descripción:**
-- [Logros y Responsabilidades]
+## 🎓 Formación Académica
 
-### [Nombre de la Empresa] - [Ubicación] - [Fechas]
+### Grado en Psicología
+**Universidad** | *En curso*
+- Especialización en Psicología Clínica y de la Salud
+- Enfoque en Neuropsicología del Desarrollo
 
-**Cargo:** [Tu Cargo]  
-**Descripción:**
-- [Logros y Responsabilidades]
+### Máster en Orientación Educativa
+**Universidad** | *Año de finalización*
+- Intervención psicopedagógica
+- Diseño de planes de orientación académica y profesional
+- Atención a la diversidad y necesidades educativas especiales
 
-## Educación
+### Grado en Pedagogía
+**Universidad** | *Año de finalización*
+- Diseño y evaluación de programas educativos
+- Metodologías de enseñanza innovadoras
+- Tecnología educativa
 
-### [Nombre de la Universidad/Institución] - [Ubicación] - [Año de Graduación]
+---
 
-**Título:** [Tu Título]  
-**Campo de Estudio:** [Tu Campo de Estudio]  
-**Descripción:** [Menciona Algunos Cursos Relevantes o Logros Académicos]  
+## 💼 Experiencia Profesional
 
-## Habilidades
+### Orientadora Educativa
+**Centro/Institución** | *Fechas*
 
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
+- Diseño e implementación de planes de orientación académica y profesional para estudiantes de diferentes etapas educativas
+- Evaluación psicopedagógica y elaboración de informes técnicos
+- Coordinación con equipos docentes para la atención a la diversidad
+- Asesoramiento a familias en procesos educativos y de desarrollo
+- Implementación de programas de desarrollo de habilidades socioemocionales
 
-## Idiomas
+**Logros destacados:**
+- Diseño de programa de transición exitoso para estudiantes con NEE
+- Reducción del 30% en casos de abandono escolar mediante intervención temprana
+- Implementación de protocolo de detección y atención de dificultades de aprendizaje
 
-- [Idioma 1] - [Nivel]
-- [Idioma 2] - [Nivel]
+### Pedagoga Especialista en TEA
+**Centro/Institución** | *Fechas*
 
-## Certificaciones
+- Diseño de programas educativos individualizados para niños y adolescentes con Trastorno del Espectro Autista
+- Aplicación de metodologías específicas: TEACCH, ABA, PECS
+- Formación a familias y profesionales sobre estrategias de intervención en TEA
+- Coordinación con equipos multidisciplinares (logopedas, terapeutas ocupacionales, psicólogos)
+- Adaptación de materiales y recursos educativos
 
-- [Certificación 1]
-- [Certificación 2]
+**Logros destacados:**
+- Desarrollo de 15+ planes educativos personalizados con mejoras significativas en autonomía
+- Creación de materiales didácticos adaptados utilizados por el equipo completo
+- Formación a 20+ profesionales en metodologías para TEA
 
-## Proyectos Destacados
+### Docente Particular y Apoyo Educativo
+**Modalidad privada** | *Fechas*
 
-### [Nombre del Proyecto]
+- Clases particulares a estudiantes de primaria y secundaria
+- Refuerzo educativo en materias instrumentales
+- Técnicas de estudio y organización
+- Preparación de exámenes y pruebas de acceso
 
-**Descripción:**
-- [Detalles del Proyecto]
+---
 
-### [Nombre del Proyecto]
+## 🛠️ Competencias y Habilidades
 
-**Descripción:**
-- [Detalles del Proyecto]
+### Técnicas
+- Evaluación psicopedagógica
+- Diseño de programas educativos personalizados
+- Intervención en dificultades de aprendizaje
+- Metodologías para TEA (TEACCH, ABA, PECS)
+- Orientación académica y profesional
+- Técnicas de mindfulness aplicadas a la educación
+- Terapia cognitivo-conductual (en formación)
 
-## Referencias
+### Tecnológicas
+- Plataformas educativas digitales (Moodle, Google Classroom)
+- Herramientas de evaluación online
+- Software de diseño de materiales educativos
+- Microsoft Office / Google Workspace avanzado
+- Herramientas de comunicación con familias
+
+### Personales
+- Empatía y escucha activa
+- Capacidad de trabajo en equipo multidisciplinar
+- Adaptabilidad y flexibilidad
+- Comunicación efectiva con diferentes públicos
+- Resolución creativa de problemas
+- Compromiso con la formación continua
+
+---
+
+## 🌐 Idiomas
+
+- **Español**: Nativo
+- **Inglés**: Nivel B2 (Marco Común Europeo)
+- **[Otro idioma]**: [Nivel]
+
+---
+
+## 📚 Certificaciones y Formación Complementaria
+
+- **Intervención en Trastorno del Espectro Autista** | Institución | Año
+- **Mindfulness en el Ámbito Educativo** | Institución | Año
+- **Inteligencia Emocional Aplicada** | Institución | Año
+- **Prevención e Intervención en Acoso Escolar** | Institución | Año
+- **Atención Temprana** | Institución | Año
+
+---
+
+## 🏆 Proyectos Destacados
+
+### Programa de Inclusión Educativa
+Diseño e implementación de un programa integral de inclusión para estudiantes con diversas necesidades educativas especiales. El programa incluyó formación docente, adaptación curricular y seguimiento individualizado, logrando una integración exitosa del 95% de los participantes.
+
+### Material Didáctico Adaptado para TEA
+Creación de una colección de materiales didácticos adaptados para niños con autismo, utilizando pictogramas, estructuración visual y apoyos conductuales. Los materiales se implementaron con éxito en múltiples centros educativos.
+
+### Talleres para Familias
+Desarrollo y facilitación de talleres formativos para familias con hijos con necesidades educativas especiales, abordando estrategias de apoyo en casa, gestión emocional y comunicación efectiva.
+
+---
+
+## 🎯 Objetivos Profesionales
+
+Busco integrarme en un equipo multidisciplinar donde pueda aplicar y continuar desarrollando mis competencias en pedagogía, orientación educativa y psicología. Mi objetivo es contribuir al desarrollo integral de las personas, especialmente aquellas con necesidades específicas de apoyo educativo, desde un enfoque humanista, basado en evidencia y centrado en el empoderamiento del individuo.
+
+---
+
+## 📞 Contacto
+
+**Email**: ms.cabreralopez@gmail.com  
+**LinkedIn**: [linkedin.com/in/milascl](https://www.linkedin.com/in/milascl)  
+**Teléfono**: +34 654 611 151  
+**Ubicación**: Madrid, España
+
+---
+
+## 📄 Referencias
 
 Disponibles a petición.
 
----  
+---
 
-¡Gracias por revisar mi Curriculum Vitae! Si deseas más información o detalles adicionales, no dudes en contactarme.
-
-\[Tu Nombre\]
-\[Tu Dirección\]
-\[Tu Número de Teléfono\]
-\[Tu Correo Electrónico\]
-\[Tu Sitio Web/Portfolio\]
+*Última actualización: Febrero 2026*

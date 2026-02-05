@@ -7,12 +7,22 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <img class="header-image" src="/assets/header.png">
+  <img class="header-image" src="/assets/header.png" alt="Milagros Sabrina - Pedagoga y Psicóloga">
+
+  <div class="intro-section" style="text-align: center; margin: 30px 0; padding: 30px; background: #f8f9fa; border-radius: 15px;">
+    <h2 style="color: #556B2F; margin-bottom: 15px;">Bienvenido/a a mi espacio profesional</h2>
+    <p style="font-size: 1.1rem; line-height: 1.8; color: #555; max-width: 800px; margin: 0 auto;">
+      Soy <strong>Milagros Sabrina Cabrera López</strong>, pedagoga, orientadora educativa y psicóloga especializada en el desarrollo integral de niños, adolescentes y familias. Mi pasión es acompañar procesos de aprendizaje y crecimiento personal, con especial dedicación al <strong>Trastorno del Espectro Autista (TEA)</strong> y la atención a la diversidad.
+    </p>
+    <p style="font-size: 1rem; color: #666; margin-top: 15px;">
+      Aquí encontrarás información sobre mi formación, experiencia y los servicios que ofrezco. Si necesitas apoyo educativo, orientación o acompañamiento psicológico, estaré encantada de conocer tu situación.
+    </p>
+  </div>
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2> -->
+  <h2 class="post-list-heading" style="text-align: center; margin: 40px 0 20px; color: #556B2F; font-size: 2rem;">Áreas de Especialización</h2>
   <div class="post-grid">
     {%- for post in site.posts -%}
     <div class="post-grid-item">
@@ -32,6 +42,13 @@ layout: default
   </div>
   {%- endif -%}
 
+  <div style="text-align: center; margin: 50px 0 30px;">
+    <h2 style="color: #556B2F; margin-bottom: 20px;">¿Necesitas ayuda o tienes alguna consulta?</h2>
+    <p style="font-size: 1.1rem; color: #666; margin-bottom: 30px;">
+      Estoy aquí para escucharte. Contáctame por el medio que prefieras:
+    </p>
+  </div>
+
   <div class="button-container">
     <a href="https://t.me/+34654611151" class="telegram-button">
       <img src="/assets/telegram.png" alt="Telegram Icon" width="20" height="20">
@@ -40,13 +57,22 @@ layout: default
 
     <a href="https://wa.me/+34654611151" class="whatsapp-button">
       <img src="/assets/whatsapp.png" alt="WhatsApp Icon" width="20" height="20">
-      <span>Whatsapp</span>
+      <span>WhatsApp</span>
     </a>
 
     <a href="mailto:ms.cabreralopez@gmail.com" class="email-button">
       <img src="/assets/email.png" alt="Email Icon" width="20" height="20">
       <span>E-mail</span>
     </a>
+  </div>
+
+  <div style="text-align: center; margin: 40px 0; padding: 25px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 15px; border-left: 5px solid #00aacc;">
+    <p style="font-size: 1.1rem; color: #555; margin: 0; font-style: italic;">
+      "La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo."
+    </p>
+    <p style="font-size: 0.95rem; color: #777; margin-top: 10px;">
+      - Paulo Freire
+    </p>
   </div>
   
 </div>
